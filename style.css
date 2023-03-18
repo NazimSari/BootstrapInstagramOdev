@@ -1,0 +1,73 @@
+body {
+  padding-top: 100px;
+}
+
+.navbar {
+  width: 100%;
+  height: 54px;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  z-index: 99;
+}
+.logo {
+  margin-left: 192px;
+}
+input::placeholder {
+  background-image: url(file:///C:/Users/NAZIM/OneDrive/Masa%C3%BCst%C3%BC/web%20developer/gitHub/BootstrapDersleri/BootstrapInstagramOdev/assets/search-solid.svg);
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.collapse {
+  margin-left: 5px;
+  margin-top: 2px;
+}
+.container .middlearea {
+  max-height: 200px !important;
+}
+.storyphoto {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid rgb(238, 39, 82);
+  margin-right: 3px;
+}
+.card-body a {
+  text-align: center;
+}
+.storytext {
+  font-size: 12px;
+  color: black;
+}
+ul.list-group {
+  border: none !important;
+}
+.list-group-item {
+  border: none;
+}
+.postuserfont1 {
+  margin-left: 5px;
+  text-align: center;
+  margin-top: 2px;
+}
+.pic img {
+  margin-left: 15px !important;
+}
+
+.hata p a {
+  margin-left: 2px;
+  color: rgb(139, 133, 133);
+  text-decoration: none;
+}
+.hata {
+  margin-top: -10px;
+}
+.postuserfont2 {
+  margin-left: 5px;
+  text-align: center;
+  margin-top: 4px;
+}
+.postuserfont3 {
+  font-size: 13px;
+  margin-left: 8px;
+}
